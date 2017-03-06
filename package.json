@@ -1,0 +1,23 @@
+{
+  "name": "frontend-challenge",
+  "version": "1.0.0",
+  "description": "frontend challenge!",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmbulnzLLC/frontend-challenge.git"
+  },
+  "author": "AmbulnzLLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmbulnzLLC/frontend-challenge/issues"
+  },
+  "homepage": "https://github.com/AmbulnzLLC/frontend-challenge#readme"
+}
